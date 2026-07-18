@@ -27,6 +27,7 @@ The following experiences and projects demonstrate my commitment to continuous l
 https://www.linkedin.com/learning/certificates/19b5c620e9086d42855e75ece3f774f26e9ee13a61341b4ca3c864653c44d211?trk=share_certificate
 https://www.linkedin.com/learning/certificates/102b3ce24972a3d6e159ef9fe58ca4156fbc858b3470ee31df1b48b03a3965a5?trk=share_certificate
 
+
 Professional Showcase
 ## Merit(s)
 https://meritpages.com/certificates/4YzNxcTM8NTN4gTNwUjMxwXNwUTNyADO/show_public
