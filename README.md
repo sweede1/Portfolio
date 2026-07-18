@@ -43,3 +43,6 @@ Fall 2024
 
 https://meritpages.com/certificates/1IDOyAjM8ZjM0gzM0kDOxwXNwUTNyADO/show_public
 Spring 2026
+
+## Projects
+Proposal
