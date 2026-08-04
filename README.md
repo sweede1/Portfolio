@@ -42,6 +42,26 @@ Professional Showcase
 ## Projects
 Proposal
 
+## 📜 Professional & Learning Certifications
+
+### 🎯 Google & Coursera Certifications
+* **Foundations of Project Management** – Google / Coursera  
+  [<img src="https://img.shields.io/badge/Verify_Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" height="28" alt="Verify Coursera" />](https://coursera.org/verify/T77XTW5VM4E3)
+
+* **Project Initiation: Starting a Successful Project** – Google / Coursera  
+  [<img src="https://img.shields.io/badge/Verify_Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" height="28" alt="Verify Coursera" />](https://coursera.org/verify/8MNF19CG1AGH)
+
+---
+
+### 💼 Technical, Financial & Analytics Credentials
+
+| Institution | Credential / Program | Completion | Link / Document |
+| :--- | :--- | :---: | :---: |
+| **Goldman Sachs (Forage)** | Risk Job Simulation | March 2025 | [Verify Credential](https://www.theforage.com/simulations/goldman-sachs/risk-management) |
+| **Delgado Community College** | Digital Marketing Analyst Program | April 2022 | [View Certificate](./certificates/Sweeden_Henry_GraduationCertificate.pdf) |
+| **Google Analytics Academy** | Advanced Google Analytics | April 2022 | [View Certificate](./certificates/Merged_Course_Certificate.pdf) |
+| **Google Analytics Academy** | Google Analytics for Beginners | April 2022 | [View Certificate](./certificates/Merged_Course_Certificate.pdf) |
+
 ### 🏆 Academic Honors & Dean's List Recognitions
 
 | Academic Term | Recognition | Certificate & Verification Link |
