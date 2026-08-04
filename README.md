@@ -59,3 +59,13 @@ Spring 2026
 
 ## Projects
 Proposal
+
+### 🏆 Academic Honors & Dean's List Recognitions
+
+| Academic Term | Recognition | Certificate & Verification Link |
+| :--- | :--- | :---: |
+| **Fall 2023** | President's / Dean's List | [<img src="https://img.shields.io/badge/Merit_Pages-View_Certificate-004B87?style=for-the-badge&logo=degree-dot-org&logoColor=white" height="28" alt="Fall 2023 Certificate" />](https://meritpages.com/certificates/4YzNxcTM8NTN4gTNwUjMxwXNwUTNyADO/show_public) |
+| **Spring 2024** | President's / Dean's List | [<img src="https://img.shields.io/badge/Merit_Pages-View_Certificate-004B87?style=for-the-badge&logo=degree-dot-org&logoColor=white" height="28" alt="Spring 2024 Certificate" />](https://meritpages.com/certificates/1EDO3cTM8hjM2ADNykzMxwXNwUTNyADO/show_public) |
+| **Summer 2024** | President's / Dean's List | [<img src="https://img.shields.io/badge/Merit_Pages-View_Certificate-004B87?style=for-the-badge&logo=degree-dot-org&logoColor=white" height="28" alt="Summer 2024 Certificate" />](https://meritpages.com/certificates/ykTOwgTM8ZzN3kTN3IDNxwXNwUTNyADO/show_public) |
+| **Fall 2024** | President's / Dean's List | [<img src="https://img.shields.io/badge/Merit_Pages-View_Certificate-004B87?style=for-the-badge&logo=degree-dot-org&logoColor=white" height="28" alt="Fall 2024 Certificate" />](https://meritpages.com/certificates/2kjM1gTM8dTMzEjN1QTNxwXNwUTNyADO/show_public) |
+| **Spring 2026** | President's / Dean's List | [<img src="https://img.shields.io/badge/Merit_Pages-View_Certificate-004B87?style=for-the-badge&logo=degree-dot-org&logoColor=white" height="28" alt="Spring 2026 Certificate" />](https://meritpages.com/certificates/1IDOyAjM8ZjM0gzM0kDOxwXNwUTNyADO/show_public) |
