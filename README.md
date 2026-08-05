@@ -58,7 +58,7 @@ Proposal
 | Institution | Credential / Program | Completion | Link / Document |
 | :--- | :--- | :---: | :---: |
 | **Goldman Sachs (Forage)** | Risk Job Simulation | March 2025 | [Verify Credential]([https://www.theforage.com/simulations/goldman-sachs/risk-management](https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/ETGMhLB5eCrYjcH8o_MBA4MnZTNFEoJZGnk_vM6D8Fp2rLyxKj2dj_1741892502358_completion_certificate.pdf))) |
-| **Delgado Community College** | Digital Marketing Analyst Program | April 2022 | [View Certificate]([Sweeden Henry GraduationCertificate.pdf](https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/ETGMhLB5eCrYjcH8o_MBA4MnZTNFEoJZGnk_vM6D8Fp2rLyxKj2dj_1741892502358_completion_certificate.pdf)) |
+| **Delgado Community College** | Digital Marketing Analyst Program | April 2022 | [View Certificate]([Sweeden Henry GraduationCertificate.pdf]((https://github.com/sweede1/Portfolio/blob/main/Sweeden%20Henry%20GraduationCertificate.pdf))) |
 | **Google Analytics Academy** | Advanced Google Analytics | April 2022 | [View Certificate](./certificates/Merged_Course_Certificate.pdf) |
 | **Google Analytics Academy** | Google Analytics for Beginners | April 2022 | [View Certificate](./certificates/Merged_Course_Certificate.pdf) |
 
