@@ -17,13 +17,16 @@ Key skills: data analysis, project coordination, documentation management, stake
 ## Certifications
 Below are certificates and training documents stored in this repository.
 
-- Get started building with Power BI — [View PDF](https://github.com/sweede1/Portfolio/blob/main/Get%20started%20building%20with%20Power%20BI.pdf)
-- Create interactive reports using Copilot for Power BI — [View PDF](https://github.com/sweede1/Portfolio/blob/main/Create%20interactive%20reports%20using%20Copilot%20for%20Power%20BI.pdf)
-- Create and manage environments in Dataverse — [View PDF](https://github.com/sweede1/Portfolio/blob/main/Create%20and%20manage%20environments%20in%20Dataverse.pdf)
-- Foundations of Project Management — [View PDF](https://github.com/sweede1/Portfolio/blob/main/Foundations%20of%20Project%20Management.pdf)
-- Project Initiation: Starting a Successful Project — [View PDF](https://github.com/sweede1/Portfolio/blob/main/Project%20Initiation.pdf)
-- Merged Course Certificate (Google Analytics courses) — [View PDF](https://github.com/sweede1/Portfolio/blob/main/Merged%20Course_Certificate%20(1).pdf)
-- Delgado Community College — Graduation Certificate — [View PDF](https://github.com/sweede1/Portfolio/blob/main/Sweeden%20Henry%20GraduationCertificate.pdf)
+| Institution | Credential / Program | Completion | Link / Document |
+| :--- | :--- | :---: | :--- |
+| Microsoft Learn / Power BI | Get started building with Power BI |  | [View PDF](https://github.com/sweede1/Portfolio/blob/main/Get%20started%20building%20with%20Power%20BI.pdf) |
+| Microsoft / Power BI | Create interactive reports using Copilot for Power BI |  | [View PDF](https://github.com/sweede1/Portfolio/blob/main/Create%20interactive%20reports%20using%20Copilot%20for%20Power%20BI.pdf) |
+| Microsoft / Dataverse | Create and manage environments in Dataverse |  | [View PDF](https://github.com/sweede1/Portfolio/blob/main/Create%20and%20manage%20environments%20in%20Dataverse.pdf) |
+| Google / Coursera | Foundations of Project Management |  | [View PDF](https://github.com/sweede1/Portfolio/blob/main/Foundations%20of%20Project%20Management.pdf) |
+| Google / Coursera | Project Initiation: Starting a Successful Project |  | [View PDF](https://github.com/sweede1/Portfolio/blob/main/Project%20Initiation.pdf) |
+| Google Analytics Academy | Advanced Google Analytics / Google Analytics for Beginners | April 2022 | [View PDF](https://github.com/sweede1/Portfolio/blob/main/Merged%20Course_Certificate%20(1).pdf) |
+| Delgado Community College | Digital Marketing Analyst Program | April 2022 | [View PDF](https://github.com/sweede1/Portfolio/blob/main/Sweeden%20Henry%20GraduationCertificate.pdf) |
+| Goldman Sachs (Forage) | Risk Job Simulation | March 2025 | [Verify Credential](#) |
 
 ---
 
@@ -43,6 +46,14 @@ Data visualization:
 ## Education & Honors
 I have been recognized on the President's / Dean's List across multiple terms. Certificates and verification badges are provided in the Certifications section above.
 
+| Academic Term | Recognition | Certificate & Verification Link |
+| :--- | :--- | :--- |
+| Fall 2023 | President's / Dean's List | [View Certificate](https://github.com/sweede1/Portfolio/blob/main/Sweeden%20Henry%20GraduationCertificate.pdf) |
+| Spring 2024 | President's / Dean's List | [View Certificate](https://github.com/sweede1/Portfolio/blob/main/Sweeden%20Henry%20GraduationCertificate.pdf) |
+| Summer 2024 | President's / Dean's List | [View Certificate](https://github.com/sweede1/Portfolio/blob/main/Sweeden%20Henry%20GraduationCertificate.pdf) |
+| Fall 2024 | President's / Dean's List | [View Certificate](https://github.com/sweede1/Portfolio/blob/main/Sweeden%20Henry%20GraduationCertificate.pdf) |
+| Spring 2026 | President's / Dean's List | [View Certificate](https://github.com/sweede1/Portfolio/blob/main/Sweeden%20Henry%20GraduationCertificate.pdf) |
+
 ---
 
 ## How to view documents
@@ -53,5 +64,4 @@ Click any of the "View PDF" links to open the certificate or document on GitHub.
 ## Contact
 Connect with me on LinkedIn or open an issue in this repository if you have questions or want to collaborate.
 
-[LinkedIn](https://www.linkedin.com/)  
-
+[LinkedIn](https://www.linkedin.com/)
