@@ -79,3 +79,5 @@ Click any of the document links to open the certificate or document on GitHub. I
 Connect with me on LinkedIn or open an issue in this repository if you have questions or want to collaborate.
 
 [LinkedIn](https://www.linkedin.com/)
+Phone: 678-213-8555
+Email: sweedenhenry14@gmail.com
