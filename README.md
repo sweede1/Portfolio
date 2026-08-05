@@ -51,10 +51,6 @@ A data visualization and analysis project exploring global health indicators (li
 - Presentation (PowerPoint): ./Disparities%20in%20Provision_Access%20to%20Healthcare.pptx
 - Source repository: https://github.com/sweede1/Disparities-in-Provision-Access-to-Healthcare-Worldwide-
 
-Adding a new project
-
-To add another project, copy the project template at `projects/PROJECT_TEMPLATE.md` to a new file (for example `projects/my-new-project.md`) and replace the placeholder fields with your project's title, summary, visuals, links, and files. This keeps projects consistent and makes the main README concise.
-
 ---
 
 ## Education & Honors
