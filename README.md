@@ -1,73 +1,57 @@
 # Portfolio
+
 ## Introduction
-Welcome to my professional portfolio.
+Welcome to my professional portfolio. I'm an analytical, detail-oriented professional with a background in Economics and experience across data analysis, product management, operations, compliance, and customer-focused problem solving.
 
-I am an analytical and detail-oriented professional with a background in Economics and experience spanning data analysis, product management, operations, compliance, and customer-focused problem solving. My work centers on transforming data into actionable insights, improving processes, and supporting strategic decision-making through careful analysis and effective communication.
-
-Throughout my academic and professional experiences, I have developed skills in data analysis, research, project coordination, documentation management, and stakeholder collaboration. I enjoy tackling complex challenges, identifying opportunities for improvement, and delivering solutions that create measurable value for organizations and their customers.
-
-This portfolio showcases selected projects, accomplishments, and experiences that demonstrate my commitment to continuous learning, analytical thinking, and operational excellence. I am passionate about leveraging data, technology, and business strategy to drive informed decisions and meaningful outcomes.
-
-Thank you for taking the time to explore my work. I look forward to connecting and discussing opportunities to contribute, learn, and grow.
-
-## Experience
-My experience extends beyond traditional employment and reflects a multidisciplinary foundation in business, analytics, technology, and operations. Through professional roles, academic coursework, industry boot camps, certifications, independent projects, and experiential learning programs, I have developed practical skills in project management, data analytics, business analysis, artificial intelligence, prompt engineering, digital marketing, research, business writing, process improvement, and strategic problem-solving.
-
-These experiences have enabled me to work with data, evaluate business challenges, develop actionable recommendations, create professional documentation, manage projects, and leverage emerging technologies to improve decision-making and operational efficiency. Whether through hands-on analytical projects, participation in industry-focused programs such as the Wells Fargo Career Development Boot Camp, or independent exploration of AI and business technologies, I continuously seek opportunities to expand my knowledge and apply it to real-world business challenges.
-
-The following experiences and projects demonstrate my commitment to continuous learning, professional growth, and the development of skills that bridge business strategy, technology, and data-driven decision-making.
-
-
-## Certifications
-<img src= "https://github.com/sweede1/Portfolio/blob/main/Get%20started%20building%20with%20Power%20BI.pdf" alt= "Logo" width="800">
-
-
-## 📊 Healthcare Disparities Analysis
-
-### Data Visualization
-<img src="https://raw.githubusercontent.com/sweede1/Disparities-in-Provision-Access-to-Healthcare-Worldwide-/main/Correlation.png" alt="Correlation Chart" width="800" />
-
-
-<p align="left">
-  <a href="https://www.linkedin.com/learning/certificates/19b5c620e9086d42855e75ece3f774f26e9ee13a61341b4ca3c864653c44d211" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn_Learning-Certificate_1-0A66C2?style=for-the-badge&logo=linkedin" alt="Certificate 1" />
-  </a>
-  <a href="https://www.linkedin.com/learning/certificates/102b3ce24972a3d6e159ef9fe58ca4156fbc858b3470ee31df1b48b03a3965a5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn_Learning-Certificate_2-0A66C2?style=for-the-badge&logo=linkedin" alt="Certificate 2" />
-  </a>
-</p>
-
-Professional Showcase
-
-## Projects
-Proposal
-
-## 📜 Professional & Learning Certifications
-
-### 🎯 Google & Coursera Certifications
-* **Foundations of Project Management** – Google / Coursera  
-  [<img src="https://img.shields.io/badge/Verify_Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" height="28" alt="Verify Coursera" />](https://coursera.org/verify/T77XTW5VM4E3)
-
-* **Project Initiation: Starting a Successful Project** – Google / Coursera  
-  [<img src="https://img.shields.io/badge/Verify_Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" height="28" alt="Verify Coursera" />](https://coursera.org/verify/8MNF19CG1AGH)
+This portfolio highlights selected projects, certifications, and accomplishments that demonstrate my commitment to continuous learning, analytical thinking, and operational excellence. Thank you for taking the time to explore my work — I look forward to connecting.
 
 ---
 
-### 💼 Technical, Financial & Analytics Credentials
+## Experience
+My experience spans professional roles, academic coursework, independent projects, and volunteer work. I have worked with data to evaluate business challenges, developed actionable recommendations, created professional documentation, managed projects, and collaborated with stakeholders to deliver results.
 
-| Institution | Credential / Program | Completion | Link / Document |
-| :--- | :--- | :---: | :---: |
-| **Goldman Sachs (Forage)** | Risk Job Simulation | March 2025[cite: 3] | [Verify Credential](https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/ETGMhLB5eCrYjcH8o_MBA4MnZTNFEoJZGnk_vM6D8Fp2rLyxKj2dj_1741892502358_completion_certificate.pdf) |
-| **Delgado Community College** | Digital Marketing Analyst Program | April 2022[cite: 1] | [View Certificate](https://github.com/sweede1/Portfolio/blob/main/Sweeden%20Henry%20GraduationCertificate.pdf) |
-| **Google Analytics Academy** | Advanced Google Analytics | April 2022 | [View Certificate](./certificates/Merged_Course_Certificate.pdf) |
-| **Google Analytics Academy** | Google Analytics for Beginners | April 2022 | [View Certificate](./certificates/Merged_Course_Certificate.pdf) |
+Key skills: data analysis, project coordination, documentation management, stakeholder collaboration, and operational process improvement.
 
-### 🏆 Academic Honors & Dean's List Recognitions
+---
 
-| Academic Term | Recognition | Certificate & Verification Link |
-| :--- | :--- | :---: |
-| **Fall 2023** | President's / Dean's List | [<img src="https://img.shields.io/badge/Merit_Pages-View_Certificate-004B87?style=for-the-badge&logo=degree-dot-org&logoColor=white" height="28" alt="Fall 2023 Certificate" />](https://meritpages.com/certificates/4YzNxcTM8NTN4gTNwUjMxwXNwUTNyADO/show_public) |
-| **Spring 2024** | President's / Dean's List | [<img src="https://img.shields.io/badge/Merit_Pages-View_Certificate-004B87?style=for-the-badge&logo=degree-dot-org&logoColor=white" height="28" alt="Spring 2024 Certificate" />](https://meritpages.com/certificates/1EDO3cTM8hjM2ADNykzMxwXNwUTNyADO/show_public) |
-| **Summer 2024** | President's / Dean's List | [<img src="https://img.shields.io/badge/Merit_Pages-View_Certificate-004B87?style=for-the-badge&logo=degree-dot-org&logoColor=white" height="28" alt="Summer 2024 Certificate" />](https://meritpages.com/certificates/ykTOwgTM8ZzN3kTN3IDNxwXNwUTNyADO/show_public) |
-| **Fall 2024** | President's / Dean's List | [<img src="https://img.shields.io/badge/Merit_Pages-View_Certificate-004B87?style=for-the-badge&logo=degree-dot-org&logoColor=white" height="28" alt="Fall 2024 Certificate" />](https://meritpages.com/certificates/2kjM1gTM8dTMzEjN1QTNxwXNwUTNyADO/show_public) |
-| **Spring 2026** | President's / Dean's List | [<img src="https://img.shields.io/badge/Merit_Pages-View_Certificate-004B87?style=for-the-badge&logo=degree-dot-org&logoColor=white" height="28" alt="Spring 2026 Certificate" />](https://meritpages.com/certificates/1IDOyAjM8ZjM0gzM0kDOxwXNwUTNyADO/show_public) |
+## Certifications
+Below are certificates and training documents stored in this repository.
+
+- Get started building with Power BI — [View PDF](https://github.com/sweede1/Portfolio/blob/main/Get%20started%20building%20with%20Power%20BI.pdf)
+- Create interactive reports using Copilot for Power BI — [View PDF](https://github.com/sweede1/Portfolio/blob/main/Create%20interactive%20reports%20using%20Copilot%20for%20Power%20BI.pdf)
+- Create and manage environments in Dataverse — [View PDF](https://github.com/sweede1/Portfolio/blob/main/Create%20and%20manage%20environments%20in%20Dataverse.pdf)
+- Foundations of Project Management — [View PDF](https://github.com/sweede1/Portfolio/blob/main/Foundations%20of%20Project%20Management.pdf)
+- Project Initiation: Starting a Successful Project — [View PDF](https://github.com/sweede1/Portfolio/blob/main/Project%20Initiation.pdf)
+- Merged Course Certificate (Google Analytics courses) — [View PDF](https://github.com/sweede1/Portfolio/blob/main/Merged%20Course_Certificate%20(1).pdf)
+- Delgado Community College — Graduation Certificate — [View PDF](https://github.com/sweede1/Portfolio/blob/main/Sweeden%20Henry%20GraduationCertificate.pdf)
+
+---
+
+## Projects
+### Healthcare Disparities Analysis
+A data visualization and analysis project highlighting disparities in access to healthcare.
+
+Data visualization:
+
+<img src="https://raw.githubusercontent.com/sweede1/Disparities-in-Provision-Access-to-Healthcare-Worldwide-/main/Correlation.png" alt="Correlation Chart" width="800" />
+
+### Proposal
+- Project proposal: [Preliminary Proposal (DOCX)](https://github.com/sweede1/Portfolio/blob/main/Prelim%20Proposal.docx)
+
+---
+
+## Education & Honors
+I have been recognized on the President's / Dean's List across multiple terms. Certificates and verification badges are provided in the Certifications section above.
+
+---
+
+## How to view documents
+Click any of the "View PDF" links to open the certificate or document on GitHub. If you'd like a different format or to host documents elsewhere, tell me where and I can update the links.
+
+---
+
+## Contact
+Connect with me on LinkedIn or open an issue in this repository if you have questions or want to collaborate.
+
+[LinkedIn](https://www.linkedin.com/)  
+
