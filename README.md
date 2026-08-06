@@ -13,14 +13,14 @@
 ---
 
 ## Introduction
-Welcome to my professional portfolio. I'm an analytical, detail-oriented professional with a background in Economics and experience across data analysis, product management, operations, compliance, and customer-focused problem solving.
+Welcome to my professional portfolio. I'm an analytical, detail-oriented professional with a background in Economics and experience across data analysis, product management, operations, compliance[...]
 
 This portfolio highlights selected projects, certifications, and accomplishments that demonstrate my commitment to continuous learning, analytical thinking, and operational excellence.
 
 ---
 
 ## Experience
-My experience spans professional roles, academic coursework, independent projects, and volunteer work. I have worked with data to evaluate business challenges, developed actionable recommendations, created professional documentation, managed projects, and collaborated with stakeholders to deliver results.
+My experience spans professional roles, academic coursework, independent projects, and volunteer work. I have worked with data to evaluate business challenges, developed actionable recommendations[...]
 
 Key skills: data analysis, project coordination, documentation management, stakeholder collaboration, and operational process improvement.
 
@@ -67,13 +67,13 @@ I have been recognized on the President's / Dean's List across multiple terms. C
 ---
 
 ## How to view documents
-Click any of the document links to open the certificate or document on GitHub. If you'd like viewer-friendly URLs (for example hosted on GitHub Pages or a file viewer), tell me which hosting option and I will update the links.
+Click any of the document links to open the certificate or document on GitHub. If you'd like viewer-friendly URLs (for example hosted on GitHub Pages or a file viewer), tell me which hosting optio[...]
 
 ---
 
 ## Contact
 Connect with me on LinkedIn or open an issue in this repository if you have questions or want to collaborate.
 
-[LinkedIn](www.linkedin.com/in/sweeden-henry-932062138/)
+[LinkedIn Profile](https://www.linkedin.com/in/sweeden-henry-932062138/)
 Phone: 678-213-8555
 Email: sweedenhenry14@gmail.com
