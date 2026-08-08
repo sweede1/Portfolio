@@ -10,8 +10,8 @@
 - [Featured Projects](#featured-projects)
 - [Certifications & Training](#certifications--training)
 - [Education & Academic Honors](#education--academic-honors)
-- [Work Experience](#work--experience)
-- [Contact](#contact)
+- [Work Experience](#work-experience)
+- [Contact & Connect](#contact--connect)
 
 ---
 
@@ -78,13 +78,13 @@ An end-to-end data visualization and quantitative analysis project exploring glo
 
 ---
 ## Work Experience
-A summary of my professional roles across data operations, business analytics, and financial workflow analysis.
 
-- 📊 **Allied Universal** | Operations & Data Management Specialist
+A summary of my professional roles across data operations, business analytics, and financial workflow analysis[cite: 1, 2, 4].
+
+- 📊 **Allied Universal** | Operations & Data Management Specialist[cite: 1, 2]
 - 🏦 **Lincoln Financial Group** | Financial Workflow Analyst[cite: 1, 2]
 
-➡️ **[View Detailed Work Experience & Case Studies](./EXPERIENCE.md)**[cite: 4]
-
+➡️ **[View Detailed Work Experience & Case Studies](./Experience.md)**
 ---
 ## Contact & Connect
 
