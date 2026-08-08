@@ -35,7 +35,7 @@ This repository serves as a central hub showcasing my technical projects, data v
 ### Healthcare Disparities Analysis
 An end-to-end data visualization and quantitative analysis project exploring global health indicators, resource allocation, and socio-economic outcomes across regions.
 
-- **Tools Used:** R (`ggplot2`), SQL, Power BI, PowerPoint
+- **Tools Used:** R (`ggplot2`), SQL, Power BI, PowerPoint, Excel
 - **Key Focus:** Data preparation, multi-indicator correlation, trend analysis, and visual storytelling.
 - **Repository Links:**
   - 📄 [Project Overview & Writeup](./projects/healthcare-disparities.md)
