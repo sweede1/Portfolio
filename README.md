@@ -1,79 +1,86 @@
-# Portfolio
+# Sweeden Henry | Professional Portfolio
 
-## Table of contents
-- [Introduction](#introduction)
-- [Experience](#experience)
-- [Certifications](#certifications)
-- [Projects](#projects)
-  - [Healthcare Disparities Analysis](#healthcare-disparities-analysis)
-- [Education & Honors](#education--honors)
-- [How to view documents](#how-to-view-documents)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sweeden-henry-932062138/)
+[![Portfolio](https://img.shields.io/badge/GitHub-sweede1-181717?style=flat&logo=github)](https://github.com/sweede1)
+[![Email](https://img.shields.io/badge/Email-sweedenhenry14%40gmail.com-red?style=flat&logo=gmail)](mailto:sweedenhenry14@gmail.com)
+
+## Table of Contents
+- [About Me](#about-me)
+- [Technical & Analytical Stack](#technical--analytical-stack)
+- [Featured Projects](#featured-projects)
+- [Certifications & Training](#certifications--training)
+- [Education & Academic Honors](#education--academic-honors)
 - [Contact](#contact)
 
 ---
 
-## Introduction
-Welcome to my professional portfolio. I'm an analytical, detail-oriented professional with a background in Economics and experience across data analysis, product management, operations, compliance[...]
+## About Me
+Welcome to my professional portfolio. I am an analytical, results-driven professional with a background in **Quantitative Economics** and **Law & Society** from Georgia State University. My experience spans data analysis, business intelligence, operations, workflow automation, and process optimization.
 
-This portfolio highlights selected projects, certifications, and accomplishments that demonstrate my commitment to continuous learning, analytical thinking, and operational excellence.
-
----
-
-## Experience
-My experience spans professional roles, academic coursework, independent projects, and volunteer work. I have worked with data to evaluate business challenges, developed actionable recommendations[...]
-
-Key skills: data analysis, project coordination, documentation management, stakeholder collaboration, and operational process improvement.
+This repository serves as a central hub showcasing my technical projects, data visualizations, industry credentials, and academic achievements.
 
 ---
 
-## Certifications
-Below are certificates and training documents stored in this repository.
-
-| Institution | Credential / Program | Completion | Link / Document |
-| :--- | :--- | :---: | :--- |
-| Microsoft Learn / Power BI | Get started building with Power BI | (date) | [View PDF](./Get%20started%20building%20with%20Power%20BI.pdf) |
-| Microsoft / Power BI | Create interactive reports using Copilot for Power BI | (date) | [View PDF](./Create%20interactive%20reports%20using%20Copilot%20for%20Power%20BI.pdf) |
-| Microsoft / Dataverse | Create and manage environments in Dataverse | (date) | [View PDF](./Create%20and%20manage%20environments%20in%20Dataverse.pdf) |
-| Google / Coursera | Foundations of Project Management | (date) | [View PDF](./Foundations%20of%20Project%20Management.pdf) |
-| Google / Coursera | Project Initiation: Starting a Successful Project | (date) | [View PDF](./Project%20Initiation.pdf) |
-| Google Analytics Academy | Advanced Google Analytics / Google Analytics for Beginners | April 2022 | [View PDF](./Merged%20Course_Certificate%20(1).pdf) |
-| Delgado Community College | Digital Marketing Analyst Program | April 2022 | [View PDF](./Sweeden%20Henry%20GraduationCertificate.pdf) |
-| Goldman Sachs (Forage) | Risk Job Simulation | March 2025 | [Verify Credential](<paste-verify-link-here>) |
+## Technical & Analytical Stack
+- **Data Analysis & Querying:** SQL, Python, R, Advanced Excel (Power Query, Dynamic Formulas)
+- **Business Intelligence & Visualization:** Power BI (Interactive Dashboards & Copilot), Tableau, ggplot2
+- **Web & Digital Analytics:** Google Analytics (Digital User Journeys & Clickstream Data)
+- **AI & Workflow Automation:** GitHub Copilot, Cursor AI, Dataverse, Automated Reporting Pipelines
+- **Core Competencies:** Business Intelligence, Multi-Source Data Blending, Exploratory Data Analysis (EDA), KPI Development, Root Cause Analysis
 
 ---
 
-## Projects
+## Featured Projects
 
 ### Healthcare Disparities Analysis
-A data visualization and analysis project exploring global health indicators (life expectancy, child wasting, access to safely managed water, density of doctors, household health expenditures).
+An end-to-end data visualization and quantitative analysis project exploring global health indicators, resource allocation, and socio-economic outcomes across regions.
 
-- Project page: ./projects/healthcare-disparities.md
-- Presentation (PowerPoint): ./Disparities%20in%20Provision_Access%20to%20Healthcare.pptx
-- Source repository: https://github.com/sweede1/Disparities-in-Provision-Access-to-Healthcare-Worldwide-
+- **Tools Used:** R (`ggplot2`), SQL, Power BI, PowerPoint
+- **Key Focus:** Data preparation, multi-indicator correlation, trend analysis, and visual storytelling.
+- **Repository Links:**
+  - 📄 [Project Overview & Writeup](./projects/healthcare-disparities.md)
+  - 📊 [Executive Presentation (PowerPoint)](./Disparities%20in%20Provision_Access%20to%20Healthcare.pptx)
+  - 💻 [Source Code Repository](https://github.com/sweede1/Disparities-in-Provision-Access-to-Healthcare-Worldwide-)
 
 ---
 
-## Education & Honors
-I have been recognized on the President's / Dean's List across multiple terms. Certificates and verification badges are provided in the Certifications section above.
+## Certifications & Training
 
-| Academic Term | Recognition | Certificate & Verification Link |
+| Institution / Platform | Credential / Skill Area | Status / Date | Document Link |
+| :--- | :--- | :---: | :--- |
+| **Google Analytics Academy** | Advanced Google Analytics / GA for Beginners | April 2022 | [View Certificate](./Merged%20Course_Certificate%20(1).pdf) |
+| **Google / Coursera** | Foundations of User Experience (UX) Design | Completed | [View Certificate](./Coursera%2056MQ9QU645YK.pdf) |
+| **Microsoft Learn** | Building Reports & Dashboards with Power BI | Completed | [View PDF](./Get%20started%20building%20with%20Power%20BI.pdf) |
+| **Microsoft Learn** | Interactive Reports using Copilot for Power BI | Completed | [View PDF](./Create%20interactive%20reports%20using%20Copilot%20for%20Power%20BI.pdf) |
+| **Microsoft Learn** | Environments & Data Management in Dataverse | Completed | [View PDF](./Create%20and%20manage%20environments%20in%20Dataverse.pdf) |
+| **Google / Coursera** | Foundations of Project Management | Completed | [View PDF](./Foundations%20of%20Project%20Management.pdf) |
+| **Google / Coursera** | Project Initiation: Starting a Successful Project | Completed | [View PDF](./Project%20Initiation.pdf) |
+| **Delgado Community College** | Digital Marketing Analyst Program | April 2022 | [View Certificate](./Sweeden%20Henry%20GraduationCertificate.pdf) |
+| **Goldman Sachs (Forage)** | Risk Management Job Simulation | March 2025 | Completed |
+
+---
+
+## Education & Academic Honors
+
+**Georgia State University** – Atlanta, GA  
+- **Bachelor of Arts in Economics** (Quantitative Track)  
+- **Bachelor of Interdisciplinary Studies** – Law & Society  
+- **Cumulative GPA:** 3.84 / 4.00 | Dean's & President's List Recognition
+
+| Academic Term | Honor / Recognition | Institutional Recognition |
 | :--- | :--- | :--- |
-| Fall 2023 | President's / Dean's List | [View Certificate](./Sweeden%20Henry%20GraduationCertificate.pdf) |
-| Spring 2024 | President's / Dean's List | [View Certificate](./Sweeden%20Henry%20GraduationCertificate.pdf) |
-| Summer 2024 | President's / Dean's List | [View Certificate](./Sweeden%20Henry%20GraduationCertificate.pdf) |
-| Fall 2024 | President's / Dean's List | [View Certificate](./Sweeden%20Henry%20GraduationCertificate.pdf) |
-| Spring 2026 | President's / Dean's List | [View Certificate](./Sweeden%20Henry%20GraduationCertificate.pdf) |
+| **Fall 2023** | Dean's / President's List | Georgia State University |
+| **Spring 2024** | Dean's / President's List | Georgia State University |
+| **Summer 2024** | Dean's / President's List | Georgia State University |
+| **Fall 2024** | Dean's / President's List | Georgia State University |
+| **Spring 2026** | Dean's / President's List | Georgia State University |
 
 ---
 
-## How to view documents
-Click any of the document links to open the certificate or document on GitHub. If you'd like viewer-friendly URLs (for example hosted on GitHub Pages or a file viewer), tell me which hosting optio[...]
+## Contact & Connect
 
----
+I am always open to discussing data analytics, business intelligence opportunities, or technical collaborations.
 
-## Contact
-Connect with me on LinkedIn or open an issue in this repository if you have questions or want to collaborate.
-
-[LinkedIn Profile](https://www.linkedin.com/in/sweeden-henry-932062138/)
-Phone: 678-213-8555
-Email: sweedenhenry14@gmail.com
+- **LinkedIn:** [linkedin.com/in/sweeden-henry-932062138](https://www.linkedin.com/in/sweeden-henry-932062138/)
+- **Email:** [sweedenhenry14@gmail.com](mailto:sweedenhenry14@gmail.com)
+- **Location:** Metro Atlanta, GA
