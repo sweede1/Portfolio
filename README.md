@@ -10,6 +10,7 @@
 - [Featured Projects](#featured-projects)
 - [Certifications & Training](#certifications--training)
 - [Education & Academic Honors](#education--academic-honors)
+- [Work Experience](#work--experience)
 - [Contact](#contact)
 
 ---
@@ -76,7 +77,15 @@ An end-to-end data visualization and quantitative analysis project exploring glo
 | **Spring 2026** | Dean's / President's List | Georgia State University |
 
 ---
+## Work Experience
+A summary of my professional roles across data operations, business analytics, and financial workflow analysis.
 
+- 📊 **Allied Universal** | Operations & Data Management Specialist
+- 🏦 **Lincoln Financial Group** | Financial Workflow Analyst[cite: 1, 2]
+
+➡️ **[View Detailed Work Experience & Case Studies](./EXPERIENCE.md)**[cite: 4]
+
+---
 ## Contact & Connect
 
 I am always open to discussing data analytics, business intelligence opportunities, or technical collaborations.
