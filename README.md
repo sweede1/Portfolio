@@ -45,6 +45,17 @@ An end-to-end data visualization and quantitative analysis project exploring glo
 
 ---
 
+## 🏅 Programs & Fellowships
+
+### **Project First-Gen: Corporate & Investment Banking** | *Participant (Fall 2024)*
+- **Overview:** Completed an inaugural 8-week intensive virtual CIB program covering core Wall Street/banking verticals.
+- **Key Modules:** 
+  - 📈 **Investment Banking:** Capital markets, pitch books, valuation basics.
+  - 🏢 **Commercial Real Estate:** Commercial property evaluation, financing structures.
+  - 🌐 **Global Markets:** Sales & trading dynamics, macroeconomic drivers, and risk exposure.
+ 
+---
+
 ## Certifications & Training
 
 | Institution / Platform | Credential / Skill Area | Status / Date | Document Link |
