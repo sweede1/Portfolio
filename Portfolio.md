@@ -88,7 +88,8 @@ An end-to-end data visualization and quantitative analysis project exploring glo
 | **Spring 2026** | Dean's / President's List | Georgia State University |
 
 ### 🎖️ Digital Badges & Credentials
-[![Brightspace Badge](https://img.shields.io/badge/Brightspace-Badge%20Earned-006DAD?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek03IDE0SDVWOGgydjZ6bTQtMmMwLS41NTItLjQ0OC0xLTEtMXMtMS40NDggMS0xIDF2MmMwIC41NTIuNDQ4IDEgMSAxczEtLjQ0OCAxLTF2LTJ6bTAgMEgxMHYtMmMwLS41NTIuNDQ4LTEgMS0xczEuNDQ4IDEgMSAxdjJ6bTAgMGg0VjhoMnY2aC0yeiIvPjwvc3ZnPg==)](https://bip.brightspace.com/70542791-11e3-4a0b-b529-fae95d826299/d2l/awards/assertions/160498/view)
+
+**Global Scholar Distinction** [![Brightspace Badge](https://img.shields.io/badge/Brightspace-Badge%20Earned-006DAD?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek03IDE0SDVWOGgydjZ6bTQtMmMwLS41NTItLjQ0OC0xLTEtMXMtMS40NDggMS0xIDF2MmMwIC41NTIuNDQ4IDEgMSAxczEtLjQ0OCAxLTF2LTJ6bTAgMEgxMHYtMmMwLS41NTIuNDQ4LTEgMS0xczEuNDQ4IDEgMSAxdjJ6bTAgMGg0VjhoMnY2aC0yeiIvPjwvc3ZnPg==)](https://bip.brightspace.com/70542791-11e3-4a0b-b529-fae95d826299/d2l/awards/assertions/160498/view)
 
 ---
 ## Work Experience
