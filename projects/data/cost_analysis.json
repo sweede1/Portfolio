@@ -1,0 +1,86 @@
+{
+  "cost_comparison": {
+    "title": "Parking Cost Analysis: On-Campus vs. Campus-Adjacent Students",
+    "analysis_date": "April 2025",
+    "data_points": [
+      {
+        "category": "On-Campus Students",
+        "cost_per_semester": 400,
+        "cost_per_month": 66.67,
+        "population_percentage": 19,
+        "housing_types": ["Lofts", "Patton Hall", "Commons", "Piedmont North", "Piedmont Central"]
+      },
+      {
+        "category": "Campus-Adjacent Students",
+        "cost_per_semester": 700,
+        "cost_per_month": 150,
+        "population_percentage": 81,
+        "housing_types": ["200 Edgewood", "One 12 Courtland", "Reflection", "The Mix", "Other Off-Campus"]
+      }
+    ],
+    "cost_disparity": {
+      "difference_per_semester": 300,
+      "percentage_increase": 75,
+      "burden_impact": "Campus-adjacent students pay 3x more than on-campus residents relative to enrollment"
+    },
+    "financial_hardship_indicators": {
+      "students_considering_not_owning_car": "Percentage unknown but significant",
+      "impact_on_job_opportunities": "Limited flexibility for employment requiring transportation",
+      "impact_on_academic_performance": "Stress from parking costs may affect studies"
+    }
+  },
+  "revenue_potential": {
+    "title": "GSU Revenue Opportunity from Campus-Adjacent Parking",
+    "current_utilization": "Underutilized after-hours and off-peak periods",
+    "scenarios": [
+      {
+        "available_spaces": 50,
+        "price_per_semester": 400,
+        "expected_occupancy": "80-90%",
+        "annual_revenue_low": 16000,
+        "annual_revenue_high": 18000,
+        "note": "Figure 1.4 reference - conservative estimate"
+      },
+      {
+        "available_spaces": 100,
+        "price_per_semester": 350,
+        "expected_occupancy": "85-95%",
+        "annual_revenue_low": 29750,
+        "annual_revenue_high": 33250
+      },
+      {
+        "available_spaces": 150,
+        "price_per_semester": 350,
+        "expected_occupancy": "90%",
+        "annual_revenue_estimate": 47250,
+        "note": "Moderate expansion scenario"
+      }
+    ]
+  },
+  "cost_savings_for_students": {
+    "current_adjacent_student_cost": {
+      "range_low": 600,
+      "range_high": 800,
+      "average": 700,
+      "timeframe": "per semester"
+    },
+    "proposed_gsu_parking_cost": {
+      "range_low": 200,
+      "range_high": 450,
+      "average": 350,
+      "timeframe": "per semester"
+    },
+    "potential_savings_per_student": {
+      "range_low": 150,
+      "range_high": 600,
+      "average": 350,
+      "percentage_reduction": "50%"
+    },
+    "annual_savings_for_student_population": {
+      "students_affected": 41840,
+      "average_savings_per_student": 350,
+      "total_potential_savings": 14644000,
+      "note": "81% of 52,000 student population"
+    }
+  }
+}

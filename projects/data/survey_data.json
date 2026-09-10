@@ -1,0 +1,94 @@
+{
+  "survey_metadata": {
+    "title": "GSU Campus-Adjacent Student Parking Survey",
+    "date_conducted": "April 2025",
+    "target_population": "Campus-adjacent students",
+    "apartments_surveyed": ["200 Edgewood", "One 12 Courtland", "Reflection", "The Mix"]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is your current class standing?",
+      "type": "single_choice",
+      "options": ["Freshman", "Sophomore", "Junior", "Senior"]
+    },
+    {
+      "id": 2,
+      "question": "Which campus-adjacent apartments do you live in?",
+      "type": "single_choice",
+      "options": ["200 Edgewood", "One 12 Courtland", "Reflection", "The Mix"]
+    },
+    {
+      "id": 3,
+      "question": "How much do you pay for parking monthly?",
+      "type": "single_choice",
+      "options": ["$100", "$150", "$200"]
+    },
+    {
+      "id": 4,
+      "question": "Are you satisfied with the current parking facilities at your campus-adjacent apartment?",
+      "type": "single_choice",
+      "options": ["Yes", "No"]
+    },
+    {
+      "id": 5,
+      "question": "Would you want GSU to provide overnight parking for campus-adjacent students?",
+      "type": "single_choice",
+      "options": ["Yes", "No"],
+      "response_distribution": {
+        "Yes": 72,
+        "No": 28
+      },
+      "chart_reference": "Figure 1.1: Pie Chart - Overnight Parking Support"
+    },
+    {
+      "id": 6,
+      "question": "If GSU offered parking options for campus-adjacent students, would you support this venture?",
+      "type": "single_choice",
+      "options": ["Yes", "No"]
+    },
+    {
+      "id": 7,
+      "question": "How much would you be willing to pay per semester to park at GSU-provided parking?",
+      "type": "single_choice",
+      "options": ["$200", "$350", "$400", "$450"],
+      "response_distribution": {
+        "$200": 15,
+        "$350": 28,
+        "$400": 42,
+        "$450": 15
+      },
+      "chart_reference": "Figure 1.4: Bar Graph - Willingness to Pay",
+      "note": "Majority willing to pay $350-$450, indicating strong demand"
+    },
+    {
+      "id": 8,
+      "question": "How supportive would you be of a venture where GSU partnered with your campus-adjacent apartment to reduce parking cost?",
+      "type": "rating_scale",
+      "scale": "1-5",
+      "average_rating": 4.2
+    },
+    {
+      "id": 9,
+      "question": "Do you think the current parking policy adequately satisfies your needs?",
+      "type": "single_choice",
+      "options": ["Yes", "No"],
+      "response_distribution": {
+        "Yes": 8,
+        "No": 92
+      }
+    },
+    {
+      "id": 10,
+      "question": "If your answer was no to the above question, what changes would you like to see implemented?",
+      "type": "open_ended",
+      "common_themes": [
+        "Overnight parking availability",
+        "Reduced parking costs for adjacent students",
+        "Designated lots for off-campus residents",
+        "Flexible parking passes",
+        "Extended parking hours"
+      ]
+    }
+  ]
+}
