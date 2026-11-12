@@ -1,6 +1,6 @@
 # Sweeden Henry | Professional Portfolio
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sweeden-henry-932062138/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sweedenhenry/)
 [![Portfolio](https://img.shields.io/badge/GitHub-sweede1-181717?style=flat&logo=github)](https://github.com/sweede1)
 [![Email](https://img.shields.io/badge/Email-sweedenhenry14%40gmail.com-red?style=flat&logo=gmail)](mailto:sweedenhenry14@gmail.com)
 
@@ -105,6 +105,6 @@ A summary of my professional roles across data operations, business analytics, a
 
 I am always open to discussing data analytics, business intelligence opportunities, or technical collaborations.
 
-- **LinkedIn:** [linkedin.com/in/sweeden-henry-932062138](https://www.linkedin.com/in/sweeden-henry-932062138/)
+- **LinkedIn:** [linkedin.com/in/sweedenhenry](https://www.linkedin.com/in/sweedenhenry/)
 - **Email:** [sweedenhenry14@gmail.com](mailto:sweedenhenry14@gmail.com)
 - **Location:** Metro Atlanta, GA
