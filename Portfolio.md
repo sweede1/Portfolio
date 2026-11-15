@@ -68,9 +68,9 @@ An end-to-end data visualization and quantitative analysis project exploring glo
 | **Google / Coursera** | Foundations of Project Management | Completed | [View PDF](./Foundations%20of%20Project%20Management.pdf) |
 | **Google / Coursera** | Project Initiation: Starting a Successful Project | Completed | [View PDF](./Project%20Initiation.pdf) |
 | **Delgado Community College** | Digital Marketing Analyst Program | April 2022 | [View Certificate](./Sweeden%20Henry%20GraduationCertificate.pdf) |
-| **Goldman Sachs (Forage)** | Risk Management Job Simulation | March 2025 | Completed | [View Certificate](./) |
-| **Deloitte (Forage)** | Data Analytics Simulation | October 2026 | Completed | [View Certificate](./) |
-| Mayer Brown (Forage)**| Introduction to Finance | November 2026 | Completed | [View Certificate](./) |
+| **Goldman Sachs (Forage)** | Risk Management Job Simulation | March 2025 | [View Certificate](./Goldman%20Sachs%20Risk_completion_certificate.pdf) |
+| **Deloitte (Forage)** | Data Analytics Simulation | October 2026 | [View Certificate](./Deloitte_completion_certificate.pdf) |
+| **Mayer Brown (Forage)** | Introduction to Finance | November 2026 | [View Certificate](./Mayer%20Brown%20_completion_certificate.pdf) |
 ---
 
 ## Education & Academic Honors
