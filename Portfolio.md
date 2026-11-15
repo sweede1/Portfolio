@@ -79,6 +79,8 @@ An end-to-end data visualization and quantitative analysis project exploring glo
 - **Bachelor of Arts in Economics** (Quantitative Track)  
 - **Bachelor of Interdisciplinary Studies** – Law & Society  
 - **Cumulative GPA:** 3.84 / 4.00 | Dean's & President's List Recognition
+- ** Master of Arts in Economics
+  
 
 | Academic Term | Honor / Recognition | Institutional Recognition |
 | :--- | :--- | :--- |
