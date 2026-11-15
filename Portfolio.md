@@ -99,8 +99,8 @@ An end-to-end data visualization and quantitative analysis project exploring glo
 
 A summary of my professional roles across data operations, business analytics, and financial workflow analysis.
 
-- 📊 **Allied Universal** | Operations & Data Management Specialist
-- 🏦 **Lincoln Financial Group** | Financial Workflow Analyst
+- 📊 **Allied Universal** | Security Data Entry Specialist
+- 🏦 **Lincoln Financial Group** | Client Service Representative
 
 ➡️ **[View Detailed Work Experience & Case Studies](./Experience.md)**
 ---
