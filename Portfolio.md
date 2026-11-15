@@ -16,7 +16,7 @@
 ---
 
 ## About Me
-Welcome to my professional portfolio. I am an analytical, results-driven professional with a background in **Quantitative Economics** and **Law & Society** from Georgia State University. My experience spans data analytics, business intelligence, financial workflow optimization, and quantitative research—with a strong foundation in SQL, Python, Power BI, and advanced analytics methodologies.
+Welcome to my professional portfolio. I am an analytical, results-driven professional with a background in **Quantitative Economics** and **Law & Society** from Georgia State University. My experience in data analysis, business intelligence, and process optimization has helped me build a strong foundation in translating complex information into actionable insights for organizations and stakeholders.
 
 This repository serves as a central hub showcasing my technical projects, data visualizations, industry credentials, and academic achievements.
 
@@ -69,6 +69,8 @@ An end-to-end data visualization and quantitative analysis project exploring glo
 | **Google / Coursera** | Project Initiation: Starting a Successful Project | Completed | [View PDF](./Project%20Initiation.pdf) |
 | **Delgado Community College** | Digital Marketing Analyst Program | April 2022 | [View Certificate](./Sweeden%20Henry%20GraduationCertificate.pdf) |
 | **Goldman Sachs (Forage)** | Risk Management Job Simulation | March 2025 | Completed |
+| **Deloitte Australia (Forage)** | Data Analytics Job Simulation | October 24, 2026 | [View Simulation](https://www.theforage.com/simulations/deloitte-au/data-analytics-s5zy) |
+| **Mayer Brown (Forage)** | Introduction to Finance | Completed | [View Simulation](https://www.theforage.com/simulations/mayer-brown/introduction-to-finance-du23/completed) |
 
 ---
 
@@ -89,7 +91,7 @@ An end-to-end data visualization and quantitative analysis project exploring glo
 
 ### 🎖️ Digital Badges & Credentials
 
-**Global Scholar Distinction** [![Brightspace Badge](https://img.shields.io/badge/Brightspace-Badge%20Earned-006DAD?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek03IDE0SDVWOGgydjZ6bTQtMmMwLS41NTItLjQ0OC0xLTEtMXMtMS40NDggMS0xIDF2MmMwIC41NTIuNDQ4IDEgMSAxczEtLjQ0OCAxLTF2LTJ6bTAgMEgxMHYtMmMwLS41NTIuNDQ4LTEgMS0xczEuNDQ4IDEgMSAxdjJ6bTAgMGg0VjhoMnY2aC0yeiIvPjwvc3ZnPg==)](https://bip.brightspace.com/70542791-11e3-4a0b-b529-fae95d826299/d2l/awards/assertions/160498/view)
+**Global Scholar Distinction** [![Brightspace Badge](https://img.shields.io/badge/Brightspace-Badge%20Earned-006DAD?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMj...) ]
 
 ---
 ## Work Experience
